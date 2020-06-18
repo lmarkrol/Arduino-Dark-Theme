@@ -1,7 +1,7 @@
 # Arduino-Dark-Theme
 
-Dark theme for Arduino IDE
- since the official developer have no make a dark theme version, 
-    so I made it by myself, enjoy!
+Dark theme for Arduino IDE <br>
+ since the official developer have no make a dark theme version, <br>
+    so I made it by myself, enjoy! <br>
 <br>
-just copy/replace to your theme arduino folder /installation directory/Arduino/lib/theme
+<i>just copy/replace to your theme arduino folder <b>/installation directory/Arduino/lib/theme</b></i>
